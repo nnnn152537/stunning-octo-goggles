@@ -1,0 +1,12 @@
+[
+{
+"compile_time":"2021-05-12 18:15:59",
+"compiler":"172.19.139.119",
+"platform":"SC9863A",
+"version_name":"RMX3231_11.A.27_202105121815",
+"version_type":"normal",
+"project":"20780",
+"download_type":"smt_aftersale",
+"sha256":"a6e88d6c00b2843f4b5c247561402fb2af8c5ed0609256c859ba3ce05d0b53dc"
+}
+]
